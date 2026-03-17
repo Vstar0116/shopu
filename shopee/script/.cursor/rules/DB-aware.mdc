@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+Proceed nect as per log @migration-log.md mark progress on it, check our DB schema as @database-schema.md , Our actual migration product is is @script
